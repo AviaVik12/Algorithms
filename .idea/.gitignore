@@ -1,11 +1,11 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-.bubble_sort.py.swp
-.counting_sort.py.swp
-.idea/.gitignore
-.idea/Algorithms.iml
-.idea/inspectionProfiles/profiles_settings.xml
-.idea/misc.xml
-.idea/modules.xml
-.quick_sort.py.swp
+/.bubble_sort.py.swp
+/.counting_sort.py.swp
+/.idea/.gitignore
+/.idea/Algorithms.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.quick_sort.py.swp
